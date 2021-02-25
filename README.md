@@ -1,3 +1,2 @@
 # CS121
-Programming Assignments from 121
-Yahtzee, Battleship, Poker
+Random Programming Assignments from 121
