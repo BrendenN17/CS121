@@ -1,2 +1,1 @@
-# CS121
-Random Programming Assignments from 121
+Not working currently
